@@ -1,0 +1,2 @@
+f1 <- function(x,y) (x+y)
+f1(10,15)
